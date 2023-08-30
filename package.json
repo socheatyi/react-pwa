@@ -1,7 +1,7 @@
 {
-  "name": "react-pwa",
-  "version": "2.1.0",
-  "description": "Starter kit for modern web applications",
+  "name": "egovernance",
+  "version": "1.0.0",
+  "description": "Help country leader to do a better governance, and people can have transparancy to their government officials.",
   "homepage": "https://react-pwa.surenatoyan.com/",
   "repository": {
     "type": "git",
